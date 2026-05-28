@@ -19,7 +19,7 @@ export function About() {
   ];
   const languages = [
     //{ language: "Español", level: "Nativo" },
-    { language: "Inglés", level: "Intermedio" },
+    { language: "Inglés", level: "B1" },
   ];
   return (
     <section id="sobre-mi" className="py-24 px-6">
