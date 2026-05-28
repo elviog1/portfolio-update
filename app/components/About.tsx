@@ -13,7 +13,6 @@ export function About() {
     "Tailwind CSS",
     "MongoDB",
     "SQLite",
-    "PostgreSQL",
     "Git",
     "GitHub",
     "Postman",
