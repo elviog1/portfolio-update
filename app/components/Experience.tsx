@@ -39,7 +39,7 @@ export function Experience() {
                 key={index}
                 className="relative pl-8 border-l-2 border-border"
               >
-                <div className="absolute left-0 top-0 w-3 h-3 -translate-x-[7px] rounded-full bg-primary" />
+                <div className="absolute left-0 top-0 w-3 h-3 -translate-x-1.75 rounded-full bg-primary" />
 
                 <div className="space-y-4">
                   <div>
