@@ -57,6 +57,14 @@ const projects: Project[] = [
     apkUrl: "/apk/marking-app.apk",
   },
   {
+    title: "Bot Discord Landing",
+    description:
+      "Landing page demostrativa de un bot de Discord que registra la entrada de usuarios al canal y refleja la información en tiempo real en la interfaz web. Diseñada para mostrar la integración entre Discord API y frontend dinámico, ofrece una visualización clara del registro de actividad y la conexión.",
+    image: "/images/discord-bot.png",
+    technologies: ["React", "Google Sheets API", "Discord.js", "Express"],
+    liveUrl: "https://bot-discord-frontend.vercel.app/",
+  },
+  {
     title: "Dulces Tentación",
     description:
       "Ecommerce interactivo de una pastelera que ofrece productos de pastelería y repostería artesanal, junto con talleres presenciales y online. Diseñado con enfoque en experiencia de usuario, gestión de pedidos y visualización atractiva de productos, permite explorar el catálogo, realizar compras seguras y reservar talleres de manera intuitiva.",
